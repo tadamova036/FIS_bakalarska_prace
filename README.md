@@ -1,6 +1,6 @@
 # Analýza nákupního chování a výkonnosti prodeje
 
-Tento repozitář obsahuje praktickou část bakalářské práce zaměřené na analýzu nákupního chování zákazníků a výkonnosti směn ve vybraném podniku rychlého občerstvení.
+Repozitář obsahuje praktickou část bakalářské práce zaměřené na analýzu nákupního chování zákazníků a výkonnosti směn ve vybraném podniku rychlého občerstvení.
 
 ## Cíl práce
 
@@ -26,7 +26,7 @@ BP/
   Výstupy detekce anomálií (identifikace netypických směn).
 
 * histogramy/
-  Vizualizace základních charakteristik dat.
+  Vizualizace základních metrik dat- SOS, AGC, Transakce_za_hodinu.
 
 * priprava_dat/
   Výstupy z předzpracování dat a vytvořené agregované datové sady.
@@ -47,7 +47,6 @@ BP/
 ## Data
 
 Data v repozitáři jsou agregovaná a anonymizovaná a neobsahují žádné citlivé ani identifikovatelné informace.
-Grafy a výstupy vycházejí z těchto agregovaných dat.
 
 ## Použité nástroje
 
