@@ -15,6 +15,7 @@ BP/
 ├── histogramy/
 ├── priprava_dat/
 ├── eda_grafy/
+├── dashboard.pbi
 ├── script.ipynb
 └── README.md
 ```
@@ -26,13 +27,16 @@ BP/
   Výstupy detekce anomálií (identifikace netypických směn).
 
 * histogramy/
-  Vizualizace základních metrik dat- SOS, AGC, Transakce_za_hodinu.
+  Vizualizace základních metrik dat (SOS, AGC, transakce za hodinu).
 
 * priprava_dat/
   Výstupy z předzpracování dat a vytvořené agregované datové sady.
 
 * eda_grafy/
   Grafy vytvořené v rámci explorační analýzy dat.
+
+* dashboard/
+  Vizualizační dashboard vytvořený v Power BI pro interaktivní analýzu výsledků.
 
 * script.ipynb
   Hlavní Jupyter Notebook obsahující celý analytický proces (příprava dat, explorační analýza, statistická analýza, shlukování a detekce anomálií).
@@ -57,6 +61,7 @@ Data v repozitáři jsou agregovaná a anonymizovaná a neobsahují žádné cit
 ## Výstupy
 
 Výsledkem analýzy je identifikace typů směn, odhalení anomálních směn a analýza vlivu vybraných faktorů na výkonnost prodeje.
+Součástí výstupů je také interaktivní dashboard umožňující přehledné zobrazení klíčových metrik.
 
 ## Kontext
 
